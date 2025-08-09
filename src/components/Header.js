@@ -17,7 +17,7 @@ export default function Header() {
         
         {/* Logo */}
         <Box sx={{ display: "flex", alignItems: "center", cursor: "pointer" }} onClick={() => navigate("/")}>
-          <img src="/e-commerce/categories/logo.png" alt="TradeBazaar" style={{ height: 100, marginRight: 8 }} />
+          <img src="/categories/logo.png" alt="TradeBazaar" style={{ height: 100, marginRight: 8 }} />
           <Typography variant="h6" color="primary">TradeBazaar</Typography>
         </Box>
 
