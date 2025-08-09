@@ -15,7 +15,7 @@ export default function Hero() {
         </div>
         <div className="hero-image">
           <img
-            src="/e-commerce/categories/shopping.png"
+            src="/categories/shopping.png"
             alt="Fashion Collection"
           />
         </div>
